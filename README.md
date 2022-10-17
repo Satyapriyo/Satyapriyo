@@ -1,16 +1,18 @@
-### Hi there 👋
 
-- 🌱 I’m currently learning ReactJs
+
+
+
+
+<h1 align="center">Hi 👋, I'm Satyapriyo Biswas</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+-🌱 I’m currently learning ReactJs
 - 👯 I’m looking to collaborate on Twittwer
 - 🤔 I’m looking for help with  Building connection
 - 💬 Ask me about Design and make UI
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/satyapriyo-biswas-b88073225/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Learning new things are amazing but taking a break is relaxing, choosen both
--->
-
-<h1 align="center">Hi 👋, I'm Satyapriyo Biswas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyapriyo&label=Profile%20views&color=0e75b6&style=flat" alt="satyapriyo" /> </p>
 
