@@ -34,6 +34,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyapriyo&show_icons=true&locale=en&layout=compact" alt="satyapriyo" /></p>
 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyapriyo&show_icons=true&locale=en" alt="satyapriyo" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyapriyo&" alt="satyapriyo" /></p>
