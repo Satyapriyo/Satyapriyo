@@ -3,7 +3,6 @@
 - 🔭  I’m currently working on BlogShot[A bloging site that comes with notion like text editing]
 - 🌱  I’m currently learning NextJs , Typescript and Docker
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/satyapriyo-biswas-b88073225/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@satyapriyoak47) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/Satyapriyo_dev) 
 
