@@ -1,6 +1,6 @@
 # Hi there👋🏻 
 
-- 🔭  I’m currently working on BlogShot[A bloging site that comes with notion like text editing]
+- 🔭  I’m currently working on BlogShot [A bloging site that comes with notion like text editing]
 - 🌱  I’m currently learning NextJs , Typescript and Docker
 
 ## 🌐 Socials:
